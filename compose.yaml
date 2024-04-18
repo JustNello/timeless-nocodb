@@ -1,0 +1,11 @@
+services:
+  nocodb:
+    image: nocodb/nocodb:latest
+    container_name: nocodb
+    environment:
+      - NC_ADMIN_EMAIL=admin@admin.com
+      - NC_ADMIN_PASSWORD=admin99%
+    volumes:
+      - "./nocodb:/usr/app/data/"
+    ports:
+      - 8080:8080

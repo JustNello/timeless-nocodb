@@ -1,0 +1,4 @@
+Project,SystemSubsystem,LCN,LogicName,ProcedureCode,Description,Frequence,Owner,Priority,ExpectedDataExecution,Report,Output,Reminder
+SICRAL-2,Informative,,OCC Client 1,S2-TPZ-18-522-PRC,SIC2-OCC_Clean-up dei file di log SCOS,MONTHLY,,MEDIUM,"JANUARY,AUGUST",Allegato a fine procedura,Cartaceo & Output File,1
+SICRAL-2,Informative,,OCC Client 1,S2-TPZ-18-522-PRC,SIC2-OCC_Clean-up dei file di log SCOS,SEMESTER,,HIGH,"JANUARY, AUGUST",Allegato a fine procedura,Cartaceo & Output File,1
+,,,,,,,,,,,,0
