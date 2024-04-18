@@ -78,6 +78,10 @@ I promemoria sono notificati con l'integrazione con Microsoft Teams, che può es
 
 Il messaggio inviato su Microsoft Teams può essere modificato come descritto [qui](https://docs.nocodb.com/automation/webhook/create-webhook#webhook-with-custom-payload-).
 
+Esistono due eventi per cui viene inviato un messaggio:
+1. Creazione nuovo promemoria
+2. Modifica stato promemoria esistente
+
 ### 4.2 - Import manuale
 
 Le attività di manutenzione si possono importare tramite file CSV; trovi un esempio di file CSV da importare nella cartella "_/examples_".
